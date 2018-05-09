@@ -1,5 +1,5 @@
 {
-  "name": "LIRIBot",
+  "name": "liribot",
   "version": "1.0.0",
   "description": "Week 10 HW",
   "main": "index.js",
@@ -20,6 +20,7 @@
   "dependencies": {
     "dotenv": "^5.0.1",
     "node-spotify-api": "^1.0.7",
+    "omdb-client": "^2.0.0",
     "request": "^2.85.0",
     "twitter": "^1.7.1"
   }
